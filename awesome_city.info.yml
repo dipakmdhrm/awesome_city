@@ -1,0 +1,5 @@
+name: Awesome City
+type: module
+description: City Entity Type
+package: QED42
+core: 8.x

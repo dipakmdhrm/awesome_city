@@ -1,0 +1,22 @@
+# Awesome City routing definition
+awesome_city.settings_tab:
+  route_name: awesome_city.settings
+  title: 'Settings'
+  base_route: awesome_city.settings
+
+entity.awesome_city.canonical:
+  route_name: entity.awesome_city.canonical
+  base_route: entity.awesome_city.canonical
+  title: 'View'
+
+entity.awesome_city.edit_form:
+  route_name: entity.awesome_city.edit_form
+  base_route: entity.awesome_city.canonical
+  title: 'Edit'
+
+entity.awesome_city.delete_form:
+  route_name:  entity.awesome_city.delete_form
+  base_route:  entity.awesome_city.canonical
+  title: Delete
+  weight: 10
+

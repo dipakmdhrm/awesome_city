@@ -1,0 +1,5 @@
+entity.awesome_city.add_form:
+  route_name: entity.awesome_city.add_form
+  title: 'Add Awesome City'
+  appears_on:
+    - entity.awesome_city.collection

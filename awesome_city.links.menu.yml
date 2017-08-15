@@ -1,0 +1,14 @@
+
+# Awesome City menu items definition
+entity.awesome_city.collection:
+  title: 'Awesome City list'
+  route_name: entity.awesome_city.collection
+  description: 'List Awesome City entities'
+  parent: system.admin_structure
+  weight: 100
+
+awesome_city.admin.structure.settings:
+  title: Awesome City settings
+  description: 'Configure Awesome City entities'
+  route_name: awesome_city.settings
+  parent: system.admin_structure

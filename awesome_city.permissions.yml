@@ -1,0 +1,22 @@
+add awesome city entities:
+  title: 'Create new Awesome City entities'
+
+administer awesome city entities:
+  title: 'Administer Awesome City entities'
+  description: 'Allow to access the administration form to configure Awesome City entities.'
+  restrict access: true
+
+delete awesome city entities:
+  title: 'Delete Awesome City entities'
+
+edit awesome city entities:
+  title: 'Edit Awesome City entities'
+
+access awesome city overview:
+  title: 'Access the Awesome City overview page'
+
+view published awesome city entities:
+  title: 'View published Awesome City entities'
+
+view unpublished awesome city entities:
+  title: 'View unpublished Awesome City entities'
